@@ -3,11 +3,11 @@
 <h3>MY PROJECTS </h3>
 - Formly [create form in seconds](https://formly-ashen.vercel.app/)
 
-- 🌱 I’m currently learning **docker , Aws , Kubernetes**
-
 - CodeSync [realtime code editor](https://codesync-5f4c2bcaf93b.herokuapp.com/)
 
 - Evently [your ultimate event mangement site](https://abc-omega-one.vercel.app/)
+
+- 🌱 I’m currently learning **docker , Aws , Kubernetes**
 
 - 📫 How to reach me **mb.ujjwal.roy@gmail.com**
 
