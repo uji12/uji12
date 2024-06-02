@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Skilled Software Developer From India</h1>
 <h3 align="center">A passionate web developer and Problem solver</h3>
-  MY PROJECTS
+<h3>MY PROJECTS </h3>
 - Formly [create form in seconds](https://formly-ashen.vercel.app/)
 
 - 🌱 I’m currently learning **docker , Aws , Kubernetes**
